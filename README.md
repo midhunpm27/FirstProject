@@ -105,9 +105,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact 📧
 
-Your Name - your-email@example.com
+Your Name - Midhun PM
 
-Project Link: https://github.com/your-username/FirstProject
+
 
 
 
